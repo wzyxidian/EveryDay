@@ -1,8 +1,11 @@
-import java.util.*;
-import java.util.concurrent.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+import java.util.RandomAccess;
 
 /*
- * @desc ArrayList遍历方式和效率的测试程序。
+ * @desc ArrayList
  *
  * @author skywang
   */
@@ -38,7 +41,7 @@ import java.util.concurrent.*;
          }
          endTime = System.currentTimeMillis();
          long interval = endTime - startTime;
-         System.out.println("iteratorThroughRandomAccess：" + interval+" ms");
+        
      }
  
      public static void iteratorThroughIterator(List list) {
@@ -51,7 +54,7 @@ import java.util.concurrent.*;
          }
          endTime = System.currentTimeMillis();
          long interval = endTime - startTime;
-         System.out.println("iteratorThroughIterator：" + interval+" ms");
+
      }
  
  
@@ -64,6 +67,8 @@ import java.util.concurrent.*;
              ;
          endTime = System.currentTimeMillis();
          long interval = endTime - startTime;
-         System.out.println("iteratorThroughFor2：" + interval+" ms");
+         List list1 ;
+         
+         HashMap a;
      }
  }

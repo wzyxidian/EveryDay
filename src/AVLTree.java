@@ -167,7 +167,7 @@ public class AVLTree<T extends Comparable<T>> {
 				}
 			}else{
 				AVLTreeNode<T> temp = tree;
-				tree = (tree.left != null) ? tree.right : tree.left;
+				tree = (tree.left == null) ? tree.right : tree.left;
 				temp = null;
 			}
 		}

@@ -1,9 +1,14 @@
 import java.io.IOException;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
+import java.util.Stack;
 
 
 //无向图邻接表的遍历
 public class ListUDGS {
+	
+	Stack stack2 = new Stack();//关键路径那用到了，全局变量
 	// 邻接表中表对应的链表的顶点
     private class ENode {
         int ivex;       // 该边所指向的顶点的位置
@@ -117,14 +122,14 @@ public class ListUDGS {
             else
                 linkLast(mVexs[p1].firstEdge, node1);
             // 初始化node2
-            ENode node2 = new ENode();
-            node2.ivex = p1;
-            node2.weight = weight;
-            // 将node2链接到"p2所在链表的末尾"
-            if(mVexs[p2].firstEdge == null)
-              mVexs[p2].firstEdge = node2;
-            else
-                linkLast(mVexs[p2].firstEdge, node2);
+//            ENode node2 = new ENode();
+//            node2.ivex = p1;
+//            node2.weight = weight;
+//            // 将node2链接到"p2所在链表的末尾"
+//            if(mVexs[p2].firstEdge == null)
+//              mVexs[p2].firstEdge = node2;
+//            else
+//                linkLast(mVexs[p2].firstEdge, node2);
         }
     }
 
@@ -280,12 +285,12 @@ public class ListUDGS {
     			if(weights[j] != 0 && tmp < weights[j])
     				weights[j] = tmp;
     		}
-    		
+    	}
     		int sum = 0 ;
-    		for(i=0;i<index;i++){
-    			min = Integer.MAX_VALUE;
+    		for(int i=0;i<index;i++){
+    			int min = Integer.MAX_VALUE;
     			int n = getPosition(prims[i]);
-    			for(j=0;j<i;j++){
+    			for(int j=0;j<i;j++){
     				int m = getPosition(prims[j]);
     				int tem = getWeight(n, m);
     				if(tem < min){
@@ -294,8 +299,6 @@ public class ListUDGS {
     			}
     			sum += min;
     		}
-    		
-    	}
     }
     
     /*
@@ -374,7 +377,7 @@ public class ListUDGS {
      * 得到i的终点
      */
     private int getVend(int[] vends, int i){
-    	if(vends[i] != 0)
+    	while(vends[i] != 0)
     		i = vends[i];
     	return i;
     }
@@ -462,22 +465,134 @@ public class ListUDGS {
     	}
     }
     
+    
+    /**
+     * 拓扑排序
+     * 
+     */
+    public int topologicSort(){
+    	int index = 0;
+    	int[] ins = new int[mVexs.length];//入度数组
+    	int[] tops = new int[mVexs.length];//拓扑排序结果数组，记录每个顶点的排序后的序号
+    	Queue<Integer> queue = new LinkedList<Integer>();//辅助队列
+    	
+    	//初始化所有顶点的入度
+    	for(int i=0;i<mVexs.length;i++){
+    		ENode node = mVexs[i].firstEdge;
+    		while(node != null){
+    			ins[node.ivex]++;
+    			node = node.nextEdge;
+    		}
+    	}
+    	//将所有度为0的顶点加入到队列中
+    	for(int i=0;i<mVexs.length;i++){
+    		if(ins[i] == 0)
+    			queue.offer(i);//入队列
+    	}
+    	
+    	//利用拓扑排序开始排列路径
+    	while(!queue.isEmpty()){				//队列非空
+    		int j = queue.poll().intValue();    //出队列，j是顶点的序号
+    		tops[index++] = mVexs[j].data;      //将该顶点添加到tops中，tops是排序结果
+    		ENode node = mVexs[j].firstEdge;    //获得以该顶点为起点的出边队列
+    		//将与node关联的节点的入度减一，若减一之后，该节点的入度为0，则将该节点添加到队列中
+    		while(node != null){
+    			ins[node.ivex]--;               //将节点的入度减一
+    			if(ins[node.ivex] == 0)         //若入度为0，则将其添加到队列中	
+    				queue.offer(node.ivex);
+    			node = node.nextEdge;
+    		}   		
+    	}
+    	if(index != mVexs.length)
+    		return -1;
+    	return 1;
+    }
+    
+    /**
+     * 关键路径
+     * @param args
+     */
+    public int[] topologicSort1(){
+    	Stack stack1 = new Stack();//辅助栈
+    	int[] etv = new int[mVexs.length];//记录所有顶点的最早开始时间
+    	int[] ins = new int[mVexs.length];
+    	//得到每个顶点的入度
+    	for(int i=0;i<mVexs.length;i++){
+    		ENode node = mVexs[i].firstEdge;
+    		while(node != null){
+    			ins[node.ivex]++;
+    			node = node.nextEdge;
+    		}
+    	}
+    	//将所有入度为0的顶点添加到stack1中
+    	for(int i=0;i<mVexs.length;i++){
+    		if(ins[i] == 0)
+    			stack1.push(i);
+    	}
+    	//遍历stack1，并把所有的顶点根据拓扑排序放到stack2中
+    	while(!stack1.isEmpty()){
+    		int j = Integer.valueOf(stack1.pop().toString()) ;
+    		stack2.push(j);
+    		ENode node = mVexs[j].firstEdge;
+    		while(node != null){
+    			ins[node.ivex]--;
+    			if(ins[node.ivex] == 0)
+    				stack1.push(node.ivex);   			
+    			if(etv[j] + node.weight > etv[node.ivex])
+    				etv[node.ivex] = etv[j] +  node.weight;
+    			node = node.nextEdge;
+    		}
+    	}
+    	return etv;
+    }
+   
+    public void criticalPath(){
+    	int[] ltv = new int[mVexs.length];//用来存放所有顶点的最晚开始时间
+    	int[] etv = topologicSort1();
+    	//首先初始化ltv的时间，初始化为最大值
+    	for(int i=0;i<ltv.length;i++)
+    		ltv[i] = etv[mVexs.length - 1];
+    	//遍历拓扑排序得到的结果，求的所有顶点的最晚开始时间
+    	while(!stack2.isEmpty()){
+    		int j = Integer.valueOf(stack2.pop().toString());
+    		ENode node = mVexs[j].firstEdge;
+    		//求出各个顶点的最晚开始时间
+    		while(node != null){
+    			if(ltv[node.ivex] - node.weight < ltv[j])
+    				ltv[j] = ltv[node.ivex] - node.weight;
+    			node = node.nextEdge;
+    		}   		
+    	}
+    	//求ete和lte，比较来求关键路径上的点
+    	for(int i=0;i<mVexs.length;i++){
+    		ENode node = mVexs[i].firstEdge;
+    		while(node != null){
+    			int ete = etv[i];//活动最早发生时间
+    			int lte = ltv[node.ivex] - node.weight;//活动最晚发生时间
+    			if(ete == lte)//如果相等，说明这个点在关键路径上
+    				System.out.println(node.ivex);
+    			node = node.nextEdge;
+    		}
+    	}
+    	
+    }
     public static void main(String[] args) {
-        char[] vexs = {'A', 'B', 'C', 'D', 'E', 'F', 'G'};
+        char[] vexs = {'0', '1', '2', '3', '4', '5', '6','7','8','9'};
         EData[] edges = {
                    // 起点 终点 权
-            new EData('A', 'B', 12), 
-            new EData('A', 'F', 16), 
-            new EData('A', 'G', 14), 
-            new EData('B', 'C', 10), 
-            new EData('B', 'F',  7), 
-            new EData('C', 'D',  3), 
-            new EData('C', 'E',  5), 
-            new EData('C', 'F',  6), 
-            new EData('D', 'E',  4), 
-            new EData('E', 'F',  2), 
-            new EData('E', 'G',  8), 
-            new EData('F', 'G',  9), 
+            new EData('0', '1', 3), 
+            new EData('0', '2', 4), 
+            new EData('1', '3', 5), 
+            new EData('1', '4', 6), 
+            new EData('2', '3',  8), 
+            new EData('2', '5',  7), 
+            new EData('3', '4',  3), 
+            new EData('4', '6',  9), 
+            new EData('4', '7',  4), 
+            new EData('5', '7',  6), 
+            new EData('6', '9',  2), 
+            new EData('7', '8',  5), 
+            new EData('8', '9',  3),
         };
         ListUDGS pG;
 
@@ -491,6 +606,7 @@ public class ListUDGS {
         //pG.BFS();     // 广度优先遍历
         //pG.prim(0);   // prim算法生成最小生成树
 
-        pG.kruskal();   // Kruskal算法生成最小生成树
+//        pG.kruskal();   // Kruskal算法生成最小生成树
+        pG.criticalPath();
     }
 }

@@ -1,3 +1,5 @@
+import java.util.LinkedHashMap;
+
 
 //二叉查找树的定义，查询，插入，删除
 public class BSTree<T extends Comparable<T>>{
@@ -172,6 +174,7 @@ public class BSTree<T extends Comparable<T>>{
 		}
 		print(tree.left, tree.key,-1);
 		print(tree.right,tree.key,1);
+		LinkedHashMap s ;
 	}
 
 	//销毁树

@@ -148,7 +148,7 @@ public class Sort {
 		int j = mid + 1;
 		int k = 0;
 		int[] temp = new int[end-start+1];
-		while(i<=mid && j <= end){
+		while(i <= mid && j <= end){
 			if(arr[i] <= arr[j])
 				temp[k++] = arr[i++];
 			else
