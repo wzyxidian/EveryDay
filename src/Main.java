@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.List;
 import java.util.Map;
+import java.util.Random;
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.TreeMap;
@@ -22,7 +23,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.atomic.AtomicBoolean;
-import java.util.concurrent.atomic.AtomicLong;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.AbstractOwnableSynchronizer;
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 import java.util.concurrent.locks.Condition;
@@ -47,6 +48,7 @@ public class Main {
 	ReadWriteLock rwLock;
 	AbstractOwnableSynchronizer aws;
 	AtomicBoolean ai;
+	ThreadLocal tl;
 	AbstractQueuedSynchronizer aqs;
 	ReentrantReadWriteLock rrwl;
 	ConcurrentHashMap chm;
@@ -54,7 +56,7 @@ public class Main {
 	HashMap hm;
 	ConcurrentLinkedQueue clq;
 	Hashtable ht;
-	AtomicLong al;
+	AtomicInteger al;
 	Stack stack;
 	CopyOnWriteArrayList cowal;
 	CopyOnWriteArraySet cowas;
@@ -70,7 +72,9 @@ public class Main {
 	ArrayBlockingQueue abq;
 	public static void main(String[] args) {
 		
-		
+		System.out.println(System.currentTimeMillis());
+		System.out.println(Math.random());
+		System.out.println((new Random(1000)).nextInt(100));
 		Scanner scan = new Scanner(System.in);
 //		//输入测试组数量
 		int allNum = scan.nextInt();

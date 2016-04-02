@@ -452,7 +452,7 @@ public class ListUDGS {
     			for(int j=0;j<mVexs.length;j++){
     				 // 如果经过下标为k顶点路径比原两点间路径更短，则更新dist[i][j]和path[i][j]
     				int temp = (dist[i][k]==Integer.MAX_VALUE || dist[k][j]== Integer.MAX_VALUE) ? Integer.MAX_VALUE :dist[i][k]+dist[k][j];
-    				if(temp <dist[i][j]){
+    				if(temp < dist[i][j]){
     					 // "i到j最短路径"对应的值设，为更小的一个(即经过k)
     					dist[i][j] = temp;
     					// "i到j最短路径"对应的路径，经过k

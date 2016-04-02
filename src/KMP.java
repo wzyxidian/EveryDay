@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 
 /** 
  * Java实现KMP算法 
@@ -54,7 +56,7 @@ public class KMP {
 	}
 	//s是主串，t是子串，匹配成功返回下标，匹配不成功返回-1
 	public int kmp_Index(char[] s, char[] t){
-		int[] next = get_nextval(t);
+		int[] next = get_next(t);
 		int i = 0;
 		int j = 0;
 		while(i <= s.length - 1 && j <= t.length - 1){
@@ -73,13 +75,18 @@ public class KMP {
 			
 		
 	}
+	public static int[] a;
 	public static void main(String[] args) {
+		 
+		
+		System.out.println(a[0]);
 		KMP kmp = new KMP();
-		String s = "abbabbbbcab";
-		String ss = "babbb";
+		String s = "caababca";
+		String ss = "abab";
 		char[] s1 = s.toCharArray();
 		char[] ss1 = ss.toCharArray();
 		System.out.println(kmp.kmp_Index(s1, ss1));;
+//		kmp.get_next(new char[] {'a','b','a','b','c'});
 		
 	}
 }
