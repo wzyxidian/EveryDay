@@ -12,6 +12,12 @@ import java.util.RandomAccess;
  public class ArrayListRandomAccessTest {
  
      public static void main(String[] args) {
+    	 String s = "ssdf";
+    	 s.replace("","d");
+    	 int[][] arr = new int[3][4];
+    	 System.out.println(arr.length);
+    	 System.out.println(arr[0].length);
+    	 
          List list = new ArrayList();
          for (int i=0; i<10000000; i++)
              list.add(i);
