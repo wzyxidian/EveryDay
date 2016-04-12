@@ -1,7 +1,10 @@
 package com.edu.xd.sse.lab.baidu;
 
 import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+
 
 
 /**
@@ -11,17 +14,18 @@ import java.util.HashMap;
 public class Map {
 
 	public static void main(String[] args) {
-		long time1 = System.currentTimeMillis();
-		System.out.println(time1);
-		HashMap<Integer,Integer> map = new HashMap<Integer,Integer>(100);
-		long time2 = System.currentTimeMillis();
-		System.out.println(time2);
-		System.out.println(time2 - time1);
-		time1 = System.currentTimeMillis();
-		HashMap<Integer,Integer> amap = new HashMap<Integer,Integer>(128);
-		time2 = System.currentTimeMillis();
-		System.out.println(time2 - time1);
-		System.out.println();
-		ArrayList al;
+		Integer[] arr = new Integer[3];
+		arr[0] = 1;
+		arr[1] = 2;
+		arr[2] = 3;
+		ArrayList<Number> array = new ArrayList<Number>();
+		Collections.addAll(array, arr);
+		 
+		List<Integer> arrays = Arrays.asList(arr);
+		arrays.add(4);
+		for(int i=0;i<arrays.size();i++){
+			System.out.println((arrays.get(i)));
+		}
 	}
+	
 }
