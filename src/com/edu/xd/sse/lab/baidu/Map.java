@@ -22,10 +22,17 @@ public class Map {
 		Collections.addAll(array, arr);
 		 
 		List<Integer> arrays = Arrays.asList(arr);
-		arrays.add(4);
+		
 		for(int i=0;i<arrays.size();i++){
 			System.out.println((arrays.get(i)));
 		}
+		int i = 1;
+		if((i++) == 2){
+			System.out.println("---------");
+		}
+		
+		
+		
 	}
 	
 }
