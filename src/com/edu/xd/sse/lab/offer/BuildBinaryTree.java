@@ -9,7 +9,13 @@ package com.edu.xd.sse.lab.offer;
  * 
  */
 public class BuildBinaryTree {
-
+	private class TreeNode{
+		int val;
+		TreeNode left;
+		TreeNode right;
+		TreeNode(int val){
+			this.val = val;
+		}
 	/**
 	 * 
 	 * @param pre 前序数组
@@ -47,11 +53,5 @@ public class BuildBinaryTree {
 	}
 }
 
-class TreeNode{
-	int val;
-	TreeNode left;
-	TreeNode right;
-	TreeNode(int val){
-		this.val = val;
-	}
+
 }
