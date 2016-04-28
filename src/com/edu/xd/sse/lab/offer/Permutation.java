@@ -42,7 +42,7 @@ public class Permutation {
             set.add(String.valueOf(chStr));
         }else{
             char temp;
-            for(int i= begin; i < len ; i++){
+            for(int i = begin; i < len ; i++){
                 temp = chStr[i];
                 chStr[i] = chStr[begin];
                 chStr[begin] = temp;
