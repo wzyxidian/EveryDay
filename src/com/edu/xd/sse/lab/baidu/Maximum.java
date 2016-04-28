@@ -1,4 +1,4 @@
-package com.edu.xd.sse.lab.tree;
+package com.edu.xd.sse.lab.baidu;
 
 import java.util.Scanner;
 
@@ -38,7 +38,7 @@ import java.util.Scanner;
  *  		   就能得到每个字符出现的权重。【注：这里有个地方要注意：至少有一个字符不能出现在首位，因为不能出现最大值为0的情况
  *  								所以要对每个字符用flag进行标记是否出现在首位，将没有出现的首位的最小值置为0】
  */
-public class Main {
+public class Maximum {
 	static int[] num = new int[10];           //分别用来记录A-J每个字符映射的值
 	static boolean[] flag = new boolean[10];  //分别用来标记A-J每个字符出现在字符串第一个位置的情况
     static long[] weight = new long[10];      //用来记录每个字符的权重
