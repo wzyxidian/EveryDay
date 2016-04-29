@@ -56,8 +56,6 @@ public class Combination {
 		sb = sb + s.charAt(index);
 		recursive(s,startIndex1,len,sb, set);
 		
-		
-		
 	}
 
 }
