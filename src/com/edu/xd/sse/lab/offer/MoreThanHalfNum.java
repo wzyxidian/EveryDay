@@ -44,11 +44,12 @@ public class MoreThanHalfNum {
 	}
 
 	/**
-	 * 第二种方法，时间复杂度为O(nlgn),不需要额外的空间
+	 * 第二种方法，时间复杂度为O(n),不需要额外的空间
 	 * 			因为这个数的个数大于一半的数字，所以中位数上的数字一定是这个数
 	 * 			利用快排的思想，从中选择一个数，大于他的放右边，小于他的放左边，然后判断这个数的位置是否是中位数
 	 * 			如果不是，继续排，直到找到中位数位置
-	 * 缺点是：再遍历一遍数组，判断个数是否真大于一半，时间复杂度较高
+	 * 缺点是：再遍历一遍数组，判断个数是否真大于一半，修改了原来的数组
+	 * 这个地方一定要定义好partition的start 与 end，然后不断变换这两个值
 	 * @param array
 	 * @return
 	 */
@@ -59,12 +60,18 @@ public class MoreThanHalfNum {
 			return array[0];
 		int length = array.length;
 		int halfLength = length / 2;
-		int index = partition(array, 0, length - 1);
+		int start = 0; 
+		int end = length - 1;
+		int index = partition(array, start, end);
 		while(index != halfLength){
-			if(index > halfLength)
-				index = partition(array, 0, index - 1);
-			if(index < halfLength)
-				index = partition(array, index + 1, length - 1);
+			if(index > halfLength){
+				end = index - 1;
+				index = partition(array, start, end);
+			}else if(index < halfLength){
+				start = index + 1;
+				index = partition(array, start, end);
+			}
+
 		}
 		boolean flag = checkMoreThanHalf(array, index);
 		if(flag)
@@ -74,6 +81,7 @@ public class MoreThanHalfNum {
 	
 	/**
 	 * 选择最后一位作为要排序的数组，小于他的放他的左边，大于他的放他的右边，最后求的这个数的下标
+	 * 注意内部循环不要忘记了low < high的条件
 	 * @param array   要排序数组
 	 * @param low     数组的低位
 	 * @param high    数组的高位
@@ -82,10 +90,10 @@ public class MoreThanHalfNum {
 	private int partition(int[] array, int low, int high){
 		int compare = array[high];
 		while(low < high){
-			while(array[low] < compare)
+			while(array[low] < compare && low < high)
 				low++;
 			swap(array, low, high);
-			while(array[high] > compare)
+			while(array[high] >= compare && low < high)
 				high--;
 			swap(array, low, high);
 		}
@@ -105,7 +113,7 @@ public class MoreThanHalfNum {
 	}
 	
 	/**
-	 * 记得求出中位数之后一定要判断这个数字的个数是否超过总数的一半
+	 * 记得求出中位数之后一定要判断这个数字的个数是否超过总数的一半,while循环一定要进行计数加操作
 	 * @param array
 	 * @param index
 	 * @return
@@ -119,6 +127,7 @@ public class MoreThanHalfNum {
 				count++;
 			else
 				break;
+			position--;
 		}
 		position = index + 1;
 		while(position < array.length){
@@ -126,6 +135,7 @@ public class MoreThanHalfNum {
 				count++;
 			else
 				break;
+			position++;
 		}
 		if(count > array.length / 2)
 			return true;
@@ -183,5 +193,10 @@ public class MoreThanHalfNum {
 		if(count * 2 <= array.length)
 			return false;
 		return true;
+	}
+	
+	public static void main(String[] args) {
+		MoreThanHalfNum more = new MoreThanHalfNum();
+		System.out.println(more.moreThanHalfNum_Solution1(new int[]{1,2,3,2,2,2,5,4,2}));;
 	}
 }
