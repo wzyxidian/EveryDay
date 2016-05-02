@@ -1,9 +1,6 @@
 package com.edu.xd.sse.lab.offer;
 
 import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.LinkedHashMap;
-import java.util.Set;
 
 /**
  * @author zhiyong wang
@@ -76,4 +73,42 @@ public class LeastNumbers {
 		input[end] = temp;
 	}
 	
+	/**
+	 * 第二种方法：首先建立k个元素的结果集，然后遍历是剩下的元素，如果小于结果集中的最大元素，则进行替换
+	 * 时间复杂度为O((n-k) * k)
+	 * @param input
+	 * @param k
+	 * @return
+	 */
+	public ArrayList<Integer> getLeastNumbers_Solution1(int[] input, int k){
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		if(input == null || input.length == 0 || k <= 0 || k > input.length)
+			return list;
+		for(int i = 0; i < k; i++)
+			list.add(input[i]);
+		for(int i = k; i < input.length; i++){
+			replaceMax(list, input[i]);
+		}
+		return list;
+	}
+	
+	/**
+	 * 如果结果集中最大的元素比遍历的元素大，则进行替换
+	 * @param list   结果集
+	 * @param x      下一个被遍历的元素
+	 */
+	private void replaceMax(ArrayList<Integer> list, int x){
+		int length = list.size();
+		int index = 0;
+		int max = list.get(0);
+		for(int i = 1; i < length; i++){
+			if(list.get(i) > max){
+				index = i;
+				max = list.get(i);
+			}
+		}		
+		if(x < max)
+			list.set(index, x);
+	}
+
 }
