@@ -1,210 +1,248 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc290e95-6e71-4dae-ac2e-7efba2208ac0" name="Default" comment="new a package">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EveryDay.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/AVLTree$AVLTreeNode.class" afterPath="$PROJECT_DIR$/bin/AVLTree$AVLTreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/AVLTree.class" afterPath="$PROJECT_DIR$/bin/AVLTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ArrayListRandomAccessTest.class" afterPath="$PROJECT_DIR$/bin/ArrayListRandomAccessTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BSTree$BSTNode.class" afterPath="$PROJECT_DIR$/bin/BSTree$BSTNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BSTree.class" afterPath="$PROJECT_DIR$/bin/BSTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BuildTree$Tree.class" afterPath="$PROJECT_DIR$/bin/BuildTree$Tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BuildTree.class" afterPath="$PROJECT_DIR$/bin/BuildTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/CreateBusyThread$1.class" afterPath="$PROJECT_DIR$/bin/CreateBusyThread$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/CreateBusyThread$2.class" afterPath="$PROJECT_DIR$/bin/CreateBusyThread$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/CreateBusyThread.class" afterPath="$PROJECT_DIR$/bin/CreateBusyThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DuLinkList$Node.class" afterPath="$PROJECT_DIR$/bin/DuLinkList$Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DuLinkList.class" afterPath="$PROJECT_DIR$/bin/DuLinkList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ElectricNum.class" afterPath="$PROJECT_DIR$/bin/ElectricNum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Father$Child.class" afterPath="$PROJECT_DIR$/bin/Father$Child.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Father$Child1.class" afterPath="$PROJECT_DIR$/bin/Father$Child1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Father$Parent.class" afterPath="$PROJECT_DIR$/bin/Father$Parent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Father.class" afterPath="$PROJECT_DIR$/bin/Father.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Gifts.class" afterPath="$PROJECT_DIR$/bin/Gifts.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/GrayCode.class" afterPath="$PROJECT_DIR$/bin/GrayCode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/HuffmanNode.class" afterPath="$PROJECT_DIR$/bin/HuffmanNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/I.class" afterPath="$PROJECT_DIR$/bin/I.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/KMP.class" afterPath="$PROJECT_DIR$/bin/KMP.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ListUDG$ENode.class" afterPath="$PROJECT_DIR$/bin/ListUDG$ENode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ListUDG$VNode.class" afterPath="$PROJECT_DIR$/bin/ListUDG$VNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ListUDG.class" afterPath="$PROJECT_DIR$/bin/ListUDG.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ListUDGS$EData.class" afterPath="$PROJECT_DIR$/bin/ListUDGS$EData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ListUDGS$ENode.class" afterPath="$PROJECT_DIR$/bin/ListUDGS$ENode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ListUDGS$VNode.class" afterPath="$PROJECT_DIR$/bin/ListUDGS$VNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ListUDGS.class" afterPath="$PROJECT_DIR$/bin/ListUDGS.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Main.class" afterPath="$PROJECT_DIR$/bin/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Main1.class" afterPath="$PROJECT_DIR$/bin/Main1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/MatrixDG.class" afterPath="$PROJECT_DIR$/bin/MatrixDG.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/MatrixDGS.class" afterPath="$PROJECT_DIR$/bin/MatrixDGS.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/MatrixUDG.class" afterPath="$PROJECT_DIR$/bin/MatrixUDG.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/MatrixUDGS.class" afterPath="$PROJECT_DIR$/bin/MatrixUDGS.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Minus$Node.class" afterPath="$PROJECT_DIR$/bin/Minus$Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Minus.class" afterPath="$PROJECT_DIR$/bin/Minus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/New.class" afterPath="$PROJECT_DIR$/bin/New.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Offer$Node.class" afterPath="$PROJECT_DIR$/bin/Offer$Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Offer.class" afterPath="$PROJECT_DIR$/bin/Offer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/QuickSortDualPivot.class" afterPath="$PROJECT_DIR$/bin/QuickSortDualPivot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/RBTree$RBTNode.class" afterPath="$PROJECT_DIR$/bin/RBTree$RBTNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/RBTree.class" afterPath="$PROJECT_DIR$/bin/RBTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Search.class" afterPath="$PROJECT_DIR$/bin/Search.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/SequenceList.class" afterPath="$PROJECT_DIR$/bin/SequenceList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Singleton.class" afterPath="$PROJECT_DIR$/bin/Singleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Singleton1$LazyHolder.class" afterPath="$PROJECT_DIR$/bin/Singleton1$LazyHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Singleton1.class" afterPath="$PROJECT_DIR$/bin/Singleton1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort.class" afterPath="$PROJECT_DIR$/bin/Sort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/SynAddRunalbes$SynAddrunalbe.class" afterPath="$PROJECT_DIR$/bin/SynAddRunalbes$SynAddrunalbe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/SynAddRunalbes.class" afterPath="$PROJECT_DIR$/bin/SynAddRunalbes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TestArrays.class" afterPath="$PROJECT_DIR$/bin/TestArrays.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TestStatic.class" afterPath="$PROJECT_DIR$/bin/TestStatic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TestString.class" afterPath="$PROJECT_DIR$/bin/TestString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Wrong.class" afterPath="$PROJECT_DIR$/bin/Wrong.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/YueSeFu.class" afterPath="$PROJECT_DIR$/bin/YueSeFu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/BasicDataCache.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/BasicDataCache.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Map.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Map.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Maximum.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Maximum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/FileTree.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/FileTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Main.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Prime.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Prime.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Tree$Node.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Tree$Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Tree.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/TreeNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/BuildBinaryTree$TreeNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/BuildBinaryTree$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/BuildBinaryTree.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/BuildBinaryTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Combination.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Combination.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/CompexClone.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/CompexClone.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Convert.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Convert.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Fibonacci.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Fibonacci.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindFirstCommonNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindFirstCommonNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindGreatestSumOfSubArray.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindGreatestSumOfSubArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindKthToTail$ListNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindKthToTail$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindKthToTail.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindKthToTail.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindNumbersAppearOnce.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindNumbersAppearOnce.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindPath.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindPath.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FristNotRepeatingChar.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FristNotRepeatingChar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/HasSubTree$TreeNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/HasSubTree$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/HasSubTree.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/HasSubTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/InversePairs.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/InversePairs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/IsPopOrder.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/IsPopOrder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/LeastNumbers.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/LeastNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MergeSortedList$ListNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MergeSortedList$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MergeSortedList.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MergeSortedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MinNumberInRotateArray.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MinNumberInRotateArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MinStack.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MinStack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Mirror$TreeNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Mirror$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Mirror.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Mirror.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MoreThanHalfNum.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MoreThanHalfNum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/NumberOf1.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/NumberOf1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/NumberOf1Between1AndN.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/NumberOf1Between1AndN.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Permutation.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Permutation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Power.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Power.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintFromTopToBottom$TreeNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintFromTopToBottom$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintFromTopToBottom.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintFromTopToBottom.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMatrix.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMatrix.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMinNumber$1.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMinNumber$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMinNumber.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMinNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Queue.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Queue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/QueueToRealizeStack.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/QueueToRealizeStack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/RandomListNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/RandomListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReOrderArray.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReOrderArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReOrderArrayNoChange.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReOrderArrayNoChange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/RectCover.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/RectCover.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReplaceSpace.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReplaceSpace.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseList$ListNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseList$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseList.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseListNode$ListNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseListNode$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseListNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/SearchNum.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/SearchNum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/StackToRealizeQueue.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/StackToRealizeQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/SumEqual.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/SumEqual.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/TreeNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Ugly.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Ugly.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/VerifySquenceOfBST.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/VerifySquenceOfBST.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/printList$ListNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/printList$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/printList.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/printList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/Tree.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/Tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse$TreeNode.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse.class" afterPath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse.class" />
-    </list>
-    <list id="e6be9366-8858-44a2-baa7-25f61a4f3bef" name="Rejected commit: Default" comment="new a package">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/BuildBinaryTree.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/BuildBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/AVLTree.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/AVLTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ArrayListRandomAccessTest.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ArrayListRandomAccessTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BSTree.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BSTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BasicDataCache.class" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BasicDataCache.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BuildTree.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BuildTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CreateBusyThread.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/CreateBusyThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DuLinkList.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/DuLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ElectricNum.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ElectricNum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Father.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Father.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Gifts.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Gifts.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GrayCode.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/GrayCode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HuffmanNode.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/HuffmanNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/I.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/I.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/KMP.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/KMP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ListUDG.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ListUDG.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ListUDGS.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ListUDGS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Main1.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Main1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MatrixDG.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixDG.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MatrixDGS.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixDGS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MatrixUDG.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixUDG.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MatrixUDGS.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixUDGS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Minus.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Minus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/New.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/New.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Offer.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Offer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/QuickSortDualPivot.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/QuickSortDualPivot.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RBTree.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/RBTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Search.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Search.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SequenceList.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/SequenceList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Singleton.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Singleton.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Singleton1.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Singleton1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Sort.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Sort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SynAddRunalbes.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/SynAddRunalbes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TestArrays.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TestStatic.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestStatic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TestString.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Wrong.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Wrong.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/YueSeFu.java" afterPath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/YueSeFu.java" />
+    <list default="true" id="bc290e95-6e71-4dae-ac2e-7efba2208ac0" name="Default" comment="&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/IpSelectStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/AddTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/StrToIntTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/SumTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/others/RandomsTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/AVLTree$AVLTreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/AVLTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ArrayListRandomAccessTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BSTree$BSTNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BSTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BuildTree$Tree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BuildTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/CreateBusyThread$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/CreateBusyThread$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/CreateBusyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/DuLinkList$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/DuLinkList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ElectricNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Father$Child.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Father$Child1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Father$Parent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Father.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Gifts.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/GrayCode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/HuffmanNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/I.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/KMP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDG$ENode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDG$VNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDG.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDGS$EData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDGS$ENode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDGS$VNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDGS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Main1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MatrixDG.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MatrixDGS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MatrixUDG.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MatrixUDGS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Minus$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Minus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/New.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Offer$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Offer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/QuickSortDualPivot.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/RBTree$RBTNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/RBTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Search.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/SequenceList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Singleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Singleton1$LazyHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Singleton1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Sort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/SynAddRunalbes$SynAddrunalbe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/SynAddRunalbes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/TestArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/TestStatic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/TestString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Wrong.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/YueSeFu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/BasicDataCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Map.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Maximum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/FileTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Prime.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Tree$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Tree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/BuildBinaryTree$TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/BuildBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Combination.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/CompexClone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Convert.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Fibonacci.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindFirstCommonNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindGreatestSumOfSubArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindKthToTail$ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindKthToTail.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindNumbersAppearOnce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FristNotRepeatingChar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/HasSubTree$TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/HasSubTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/InversePairs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/IsPopOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/LeastNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MergeSortedList$ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MergeSortedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MinNumberInRotateArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MinStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Mirror$TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Mirror.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MoreThanHalfNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/NumberOf1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/NumberOf1Between1AndN.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Permutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Power.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintFromTopToBottom$TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintFromTopToBottom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMinNumber$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMinNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Queue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/QueueToRealizeStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/RandomListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReOrderArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReOrderArrayNoChange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/RectCover.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReplaceSpace.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseList$ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseListNode$ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/SearchNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/StackToRealizeQueue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/SumEqual.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Ugly.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/VerifySquenceOfBST.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/printList$ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/printList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/Tree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse$TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Queue.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EveryDay.iml" afterPath="$PROJECT_DIR$/EveryDay.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Randoms.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Randoms.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/baidu/BasicDataCache.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/baidu/BasicDataCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/baidu/Map.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/baidu/Map.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/baidu/Maximum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/baidu/Maximum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/FileTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/FileTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/KafKaManage.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/KafKaManage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/KafkaTopicInfo.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/KafkaTopicInfo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/Main.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/Prime.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/Prime.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/ScriptExecute.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/ScriptExecute.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/Tree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/Tree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/kafka.properties" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/kafka.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/BuildBinaryTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/BuildBinaryTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Combination.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Combination.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/CompexClone.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/CompexClone.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Convert.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Convert.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Fibonacci.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Fibonacci.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindContinuousSequence.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindContinuousSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindFirstCommonNode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindFirstCommonNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindGreatestSumOfSubArray.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindGreatestSumOfSubArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindKthToTail.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindKthToTail.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindNumbersAppearOnce.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindNumbersAppearOnce.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindNumbersWithSum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindNumbersWithSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindPath.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindPath.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FristNotRepeatingChar.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FristNotRepeatingChar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/HasSubTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/HasSubTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/InversePairs.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/InversePairs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/IsBalancedTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/IsBalancedTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/IsContinuous.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/IsContinuous.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/IsPopOrder.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/IsPopOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/LeastNumbers.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/LeastNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/LeftRotateString.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/LeftRotateString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/MergeSortedList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MergeSortedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/MinNumberInRotateArray.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MinNumberInRotateArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/MinStack.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MinStack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Mirror.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Mirror.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/MoreThanHalfNum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MoreThanHalfNum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/NumberOf1.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/NumberOf1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/NumberOf1Between1AndN.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/NumberOf1Between1AndN.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Permutation.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Permutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Power.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Power.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/PrintFromTopToBottom.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/PrintFromTopToBottom.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/PrintMatrix.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/PrintMatrix.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/PrintMinNumber.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/PrintMinNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Queen.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Queen.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/QueueToRealizeStack.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/QueueToRealizeStack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReOrderArray.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReOrderArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReOrderArrayNoChange.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReOrderArrayNoChange.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/RectCover.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/RectCover.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReplaceSpace.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReplaceSpace.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReverseList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReverseList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReverseListNode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReverseListNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReverseSentence.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReverseSentence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/SearchNum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/SearchNum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/StackToRealizeQueue.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/StackToRealizeQueue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/SumEqual.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/SumEqual.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/TreeDepth.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/TreeDepth.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Ugly.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Ugly.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/VerifySquenceOfBST.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/VerifySquenceOfBST.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/printList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/printList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/AVLTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/AVLTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ArrayListRandomAccessTest.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/ArrayListRandomAccessTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BSTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/BSTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BasicDataCache.class" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/BasicDataCache.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BuildTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/BuildTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/CreateBusyThread.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/CreateBusyThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/DuLinkList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/DuLinkList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ElectricNum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/ElectricNum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Father.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Father.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Gifts.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Gifts.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/GrayCode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/GrayCode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/HuffmanNode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/HuffmanNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/I.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/I.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/KMP.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/KMP.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ListUDG.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/ListUDG.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ListUDGS.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/ListUDGS.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Main.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Main1.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Main1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixDG.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/MatrixDG.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixDGS.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/MatrixDGS.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixUDG.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/MatrixUDG.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixUDGS.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/MatrixUDGS.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Minus.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Minus.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/New.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/New.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Offer.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Offer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/QuickSortDualPivot.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/QuickSortDualPivot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/RBTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/RBTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Search.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Search.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/SequenceList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/SequenceList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Singleton.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Singleton.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Singleton1.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Singleton1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Sort.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Sort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/SynAddRunalbes.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/SynAddRunalbes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestArrays.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/TestArrays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestStatic.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/TestStatic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestString.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/TestString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Wrong.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Wrong.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/YueSeFu.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/YueSeFu.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/tree/Tree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/tree/Tree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/tree/TreeNode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/tree/TreeNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/tree/TreeTraverse.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/tree/TreeTraverse.java" />
     </list>
     <ignored path="EveryDay.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/KMP.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/RBTree.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/I.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ListUDGS.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Main.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/New.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BuildTree.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ArrayListRandomAccessTest.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Father.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Sort.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixDGS.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/SynAddRunalbes.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/AVLTree.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ListUDG.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Offer.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Singleton1.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Singleton.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestStatic.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Search.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BSTree.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/HuffmanNode.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/CreateBusyThread.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixDG.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/DuLinkList.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixUDG.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Minus.java" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/BuildBinaryTree.java" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,40 +250,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/EveryDay$FindNumbersAppearOnce.coverage" NAME="FindNumbersAppearOnce Coverage Results" MODIFIED="1463580102588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.edu.xd.sse.lab.offer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EveryDay$AddTest_add.coverage" NAME="AddTest.add Coverage Results" MODIFIED="1463837125183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.xd.sse.lab.offer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EveryDay$StrToIntTest_strToInt.coverage" NAME="StrToIntTest.strToInt Coverage Results" MODIFIED="1463835677343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.xd.sse.lab.offer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EveryDay$SumTest.coverage" NAME="SumTest Coverage Results" MODIFIED="1463753358965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.xd.sse.lab.offer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EveryDay$RandomsTest.coverage" NAME="RandomsTest Coverage Results" MODIFIED="1463738128244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cn.edu.xd.sse.lab.others.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EveryDay$RandomsTest_testSystemCurrentTimeMillis.coverage" NAME="RandomsTest.testSystemCurrentTimeMillis Coverage Results" MODIFIED="1463738073127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.xd.sse.lab.others.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EveryDay$StrToIntTest.coverage" NAME="StrToIntTest Coverage Results" MODIFIED="1463835951197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.xd.sse.lab.offer.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="EveryDay" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Combination.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Combination.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Add.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Add.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="320">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/BuildBinaryTree.java">
+      <file leaf-file-name="AddTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/AddTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AVLTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/AVLTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="181" column="13" selection-start-line="181" selection-start-column="13" selection-end-line="181" selection-end-column="13" />
+            <state relative-caret-position="280">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -253,10 +314,20 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="wzyxidian" />
+        <option value="w\" />
+        <option value="zhiyongwang" />
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -275,8 +346,40 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/BuildBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/AVLTree.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/BuildBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Combination.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/TopicInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Queen.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/TreeDepth.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/IsBalancedTree.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/KafkaTopicInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/kafka.properties" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/KafKaManage.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/ScriptExecute.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/IpSelectStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindNumbersAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindContinuousSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindNumbersWithSum.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/LeftRotateString.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReverseSentence.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/IsContinuous.java" />
+        <option value="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Randoms.java" />
+        <option value="$PROJECT_DIR$/tests/othersTest.java" />
+        <option value="$PROJECT_DIR$/tests/others.java" />
+        <option value="$PROJECT_DIR$/tests/Randoms.java" />
+        <option value="$PROJECT_DIR$/tests/RandomsTest.java" />
+        <option value="$PROJECT_DIR$/tests/RandomsTestTest.java" />
+        <option value="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/others/NewTest.java" />
+        <option value="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/others/RandomsTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Randoms.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/LastRemaining.java" />
+        <option value="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/SumTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Sum.java" />
+        <option value="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/AddTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Add.java" />
+        <option value="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/StrToIntTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/StrToInt.java" />
       </list>
     </option>
   </component>
@@ -285,11 +388,37 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1696" />
     <option name="height" value="1026" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -298,7 +427,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -316,9 +445,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -357,23 +483,166 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.splitter.proportion" value="0.27021885" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\IntelliJIDEAGIT" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.edu.xd.sse.lab.offer" />
+      <recent name="cn.edu.xd.sse.lab.others" />
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\IntelliJIDEAGIT\EveryDay\src\com\edu\xd\sse\lab\others" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IntelliJIDEAGIT" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.AddTest.add">
+    <configuration default="false" name="RandomsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.xd.sse.lab.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EveryDay" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.edu.xd.sse.lab.others" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.others.RandomsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.xd.sse.lab.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EveryDay" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.edu.xd.sse.lab.offer" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.offer.SumTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="AddTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.xd.sse.lab.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EveryDay" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.edu.xd.sse.lab.offer" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.offer.AddTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="StrToIntTest.strToInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.xd.sse.lab.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EveryDay" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.edu.xd.sse.lab.offer" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.offer.StrToIntTest" />
+      <option name="METHOD_NAME" value="strToInt" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="StrToIntTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.xd.sse.lab.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="EveryDay" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.edu.xd.sse.lab.offer" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.offer.StrToIntTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -588,6 +857,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -786,6 +1056,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -829,6 +1105,22 @@
       <envs />
       <method />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.RandomsTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SumTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AddTest.add" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.StrToIntTest.strToInt" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StrToIntTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AddTest.add" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.StrToIntTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.StrToIntTest.strToInt" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SumTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RandomsTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -838,6 +1130,12 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bc290e95-6e71-4dae-ac2e-7efba2208ac0" name="Default" comment="" />
@@ -845,60 +1143,289 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463385481200</updated>
-      <workItem from="1463385497261" duration="3032000" />
+      <workItem from="1463385497261" duration="4099000" />
+      <workItem from="1463389697947" duration="665000" />
+      <workItem from="1463390389250" duration="622000" />
+      <workItem from="1463391041147" duration="15029000" />
+      <workItem from="1463417235807" duration="880000" />
+      <workItem from="1463418162673" duration="27000" />
+      <workItem from="1463472018906" duration="4341000" />
+      <workItem from="1463490685485" duration="10459000" />
+      <workItem from="1463534961504" duration="3524000" />
+      <workItem from="1463555236082" duration="46144000" />
+      <workItem from="1463665396224" duration="6296000" />
+      <workItem from="1463707462780" duration="18305000" />
+      <workItem from="1463816536182" duration="5646000" />
     </task>
+    <task id="LOCAL-00001" summary="new a package">
+      <created>1463388643185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463388643185</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new a package">
+      <created>1463389005813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1463389005813</updated>
+    </task>
+    <task id="LOCAL-00003" summary="calculate the depth of the tree &#10;including    recursive, circulate">
+      <created>1463497007620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1463497007620</updated>
+    </task>
+    <task id="LOCAL-00004" summary="IsBalancedTree &#10; 判断一个二叉树是否是平衡二叉树，采用了两种方法，一种是从上往下进行判断，思路简单，会重复遍历节点，造成时间浪费；第二种是从下往上进行判断，用root.val来保存已经计算出来的节点的深度，这样不会出现重复判断，可以做到一边求深度，一边进行遍历。">
+      <created>1463501645871</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1463501645871</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ScriptExecute&#10;执行脚本跟指令的方法">
+      <created>1463575294477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1463575294477</updated>
+    </task>
+    <task id="LOCAL-00006" summary="KafkaTopicInfo&#10;获取topic信息的类，可以获取集群中所有主机的ip，topic名称，每个topic详情，每台主机节点的kafka状态">
+      <created>1463575370506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1463575370506</updated>
+    </task>
+    <task id="LOCAL-00007" summary="KafkaManage&#10;对kafka进行操作的类，主要是启停kafka，默认zookeeper是已经启动的">
+      <created>1463575470261</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1463575470261</updated>
+    </task>
+    <task id="LOCAL-00008" summary="将可变信息写到配置文件中，方便进行重构">
+      <created>1463575562202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1463575562202</updated>
+    </task>
+    <task id="LOCAL-00009" summary="FindNumbersAppearOnce&#10;出现一次">
+      <created>1463582930740</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1463582930740</updated>
+    </task>
+    <task id="LOCAL-00010" summary="FindContinuousSequence&#10;找到和为给定值的所有连续的序列">
+      <created>1463621932369</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1463621932369</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FindNumbersWithSum&#10;找到两个数的和满足条件，用O(n)的时间复杂度，用两个指针完成，第一个从前往后移动，第二个从后往前移动；大于所求数值，第二个指针往前移动；小于所求数值，第一个指针往后移动；如果相等，记录下当前值，然后继续移动第一个指针，这样就可以求出所有满足条件的数值">
+      <created>1463639500500</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1463639500500</updated>
+    </task>
+    <task id="LOCAL-00012" summary="LeftRotateString &#10;对字符串进行左移操作，采用的思路是：判断要进行移动的位数n，对1到n位进行前后交换字符操作，然后对n+1到字符串结束进行前后字符交换操作，最后是整个字符串进行前后交换操作">
+      <created>1463662139725</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1463662139725</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Queen&#10;皇后棋子问题，最后转换成排序问题">
+      <created>1463668899263</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1463668899263</updated>
+    </task>
+    <task id="LOCAL-00014" summary="字符串位置交换问题&#10;两种思路：&#10;      第一种：字符串首先整个前后位置交换，然后将里面的空格间隔开的字符串在进行前后位置交换，就可以得到最后到的结果&#10;      第二种：将字符串以空格为分隔符转换成字符串数组，然后从后开始往前遍历字符串数组，将字符串依次组合成最后的结果；注意：最后一个添加的时候不加空格，其他时候都加空格">
+      <created>1463669085599</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1463669085599</updated>
+    </task>
+    <task id="LOCAL-00015" summary="IsContinuous&#10;思路：&#10;     *      整个过程分三步进行：（1）对整个数组进行排序（2）统计0的个数（3）统计连续非零数值间的间隔之和&#10;     *      最后判断0的个数与非零的间隔之和的大小，0的个数大于等于非零的间隔之和，那么就满足连续条件，否则不满足&#10;     * 注意几个问题：&#10;     *          （1）统计非零间隔之和的同时要判断两个数是否相等，如果相等，那么直接返回false&#10;     *          （2）连续两个非零数值之间的间隔为：后面的数值-前面的数值-1；不要忘记了减去1&#10;">
+      <created>1463671161631</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1463671161631</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Randoms&#10;三种获取随机数的方法">
+      <created>1463737062849</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1463737062849</updated>
+    </task>
+    <task id="LOCAL-00017" summary="LastRemaining&#10;约瑟夫环的变形&#10;     *      第一步将所有的小朋友依次添加到LinkedList容器中，&#10;     *      第二步初始化k,i,k表示每次要移走的数的下标，i用来结束循环用,循环结束的条件是移走了n-1个小朋友&#10;     *      第三步遍历容器并移走数据，因为每次不再是报m的出去，而是一次递减m,m-1, m-2 ,m - 3...出去，所以&#10;     *      每循环一次，k = m - 1;当然k都要对容器大小取余，如果是最后一位，说明余数为0，此时移走最后一位，k置0；&#10;     *      如果不是最后一位，直接移走就ok了。">
+      <created>1463750789896</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1463750789896</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Sum&#10; 方法一：原来的求和公式是（n^2 + n）/ 2;&#10;     * 思路；可以把公式分解开来进行求解，n^2 采用Math.pow(n,2);&#10;     *     /2操作可以使用移位操作来完成&#10;方法二：&#10;    用递归来实现循环，用 boolean 来实现判断条件">
+      <created>1463753943586</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1463753943586</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add&#10;思路：可以把相加的过程分成两部分，第一部分只相加，不进位，第二部分，把进位的与之相加&#10;     *      第一步：先得到异或的结果，此时的结果是没有进位的结果，&#10;     *      第二步：得到相与的结果，然后左移一位就是进位的结果&#10;     *      第三步：就是循环相加第一步第二步的和，直到进位为0为止">
+      <created>1463760722530</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1463760722530</updated>
+    </task>
+    <task id="LOCAL-00020" summary="StrToInt&#10;思路：这个题主要考察的是情况比较多，不能拉下了：（1）第一位是正负号，后面都是数字（2）第一位是正负号，后面没了&#10;     * （3）第一位是正负号，后面包含非整数字符（4）不包含正负号的有效数字（5）不包含正负号的无效数字（6）大于int的最大值，或小于最小值&#10;     &#10;">
+      <created>1463836785174</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1463836785174</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AddTest_add - 2016.05.21 at 21h 25m 05s.xml">
+      <configuration name="AddTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddTest_add - 2016.05.21 at 21h 25m 26s.xml">
+      <configuration name="AddTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrToIntTest - 2016.05.21 at 21h 05m 52s.xml">
+      <configuration name="StrToIntTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrToIntTest_strToInt - 2016.05.21 at 16h 08m 51s.xml">
+      <configuration name="StrToIntTest.strToInt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrToIntTest_strToInt - 2016.05.21 at 16h 12m 04s.xml">
+      <configuration name="StrToIntTest.strToInt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrToIntTest_strToInt - 2016.05.21 at 16h 12m 13s.xml">
+      <configuration name="StrToIntTest.strToInt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrToIntTest_strToInt - 2016.05.21 at 16h 12m 52s.xml">
+      <configuration name="StrToIntTest.strToInt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrToIntTest_strToInt - 2016.05.21 at 20h 56m 59s.xml">
+      <configuration name="StrToIntTest.strToInt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrToIntTest_strToInt - 2016.05.21 at 21h 01m 19s.xml">
+      <configuration name="StrToIntTest.strToInt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrToIntTest_strToInt - 2016.05.21 at 21h 04m 13s.xml">
+      <configuration name="StrToIntTest.strToInt" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3032000" />
+    <option name="totallyTimeSpent" value="116037000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.49761903" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.50238097" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3337041" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24753694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23421355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294335" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.6371814" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24753694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.3628186" order="1" side_tool="true" content_ui="tabs" x="622" y="25" width="436" height="937" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19950739" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20812808" sideWeight="0.35361654" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <MESSAGE value="new a package" />
-    <option name="LAST_COMMIT_MESSAGE" value="new a package" />
+    <MESSAGE value="calculate the depth of the tree&#10;including : recursive , circulate&#10;" />
+    <MESSAGE value="calculate the depth of the tree &#10;including    recursive, circulate" />
+    <MESSAGE value="IsBalancedTree &#10; 判断一个二叉树是否是平衡二叉树，采用了两种方法，一种是从上往下进行判断，思路简单，会重复遍历节点，造成时间浪费；第二种是从下往上进行判断，用root.val来保存已经计算出来的节点的深度，这样不会出现重复判断，可以做到一边求深度，一边进行遍历。" />
+    <MESSAGE value="ScriptExecute&#10;执行脚本跟指令的方法" />
+    <MESSAGE value="KafkaTopicInfo&#10;获取topic信息的类，可以获取集群中所有主机的ip，topic名称，每个topic详情，每台主机节点的kafka状态" />
+    <MESSAGE value="KafkaManage&#10;对kafka进行操作的类，主要是启停kafka，默认zookeeper是已经启动的" />
+    <MESSAGE value="将可变信息写到配置文件中，方便进行重构" />
+    <MESSAGE value="FindNumbersAppearOnce&#10;出现一次" />
+    <MESSAGE value="FindContinuousSequence&#10;找到和为给定值的所有连续的序列" />
+    <MESSAGE value="FindNumbersWithSum&#10;找到两个数的和满足条件，用O(n)的时间复杂度，用两个指针完成，第一个从前往后移动，第二个从后往前移动；大于所求数值，第二个指针往前移动；小于所求数值，第一个指针往后移动；如果相等，记录下当前值，然后继续移动第一个指针，这样就可以求出所有满足条件的数值" />
+    <MESSAGE value="LeftRotateString &#10;对字符串进行左移操作，采用的思路是：判断要进行移动的位数n，对1到n位进行前后交换字符操作，然后对n+1到字符串结束进行前后字符交换操作，最后是整个字符串进行前后交换操作" />
+    <MESSAGE value="Queen&#10;皇后棋子问题，最后转换成排序问题" />
+    <MESSAGE value="字符串位置交换问题&#10;两种思路：&#10;      第一种：字符串首先整个前后位置交换，然后将里面的空格间隔开的字符串在进行前后位置交换，就可以得到最后到的结果&#10;      第二种：将字符串以空格为分隔符转换成字符串数组，然后从后开始往前遍历字符串数组，将字符串依次组合成最后的结果；注意：最后一个添加的时候不加空格，其他时候都加空格" />
+    <MESSAGE value="IsContinuous&#10;思路：&#10;     *      整个过程分三步进行：（1）对整个数组进行排序（2）统计0的个数（3）统计连续非零数值间的间隔之和&#10;     *      最后判断0的个数与非零的间隔之和的大小，0的个数大于等于非零的间隔之和，那么就满足连续条件，否则不满足&#10;     * 注意几个问题：&#10;     *          （1）统计非零间隔之和的同时要判断两个数是否相等，如果相等，那么直接返回false&#10;     *          （2）连续两个非零数值之间的间隔为：后面的数值-前面的数值-1；不要忘记了减去1&#10;" />
+    <MESSAGE value="Randoms&#10;三种获取随机数的方法" />
+    <MESSAGE value="LastRemaining&#10;约瑟夫环的变形&#10;     *      第一步将所有的小朋友依次添加到LinkedList容器中，&#10;     *      第二步初始化k,i,k表示每次要移走的数的下标，i用来结束循环用,循环结束的条件是移走了n-1个小朋友&#10;     *      第三步遍历容器并移走数据，因为每次不再是报m的出去，而是一次递减m,m-1, m-2 ,m - 3...出去，所以&#10;     *      每循环一次，k = m - 1;当然k都要对容器大小取余，如果是最后一位，说明余数为0，此时移走最后一位，k置0；&#10;     *      如果不是最后一位，直接移走就ok了。" />
+    <MESSAGE value="Sum&#10; 方法一：原来的求和公式是（n^2 + n）/ 2;&#10;     * 思路；可以把公式分解开来进行求解，n^2 采用Math.pow(n,2);&#10;     *     /2操作可以使用移位操作来完成&#10;方法二：&#10;    用递归来实现循环，用 boolean 来实现判断条件" />
+    <MESSAGE value="Add&#10;思路：可以把相加的过程分成两部分，第一部分只相加，不进位，第二部分，把进位的与之相加&#10;     *      第一步：先得到异或的结果，此时的结果是没有进位的结果，&#10;     *      第二步：得到相与的结果，然后左移一位就是进位的结果&#10;     *      第三步：就是循环相加第一步第二步的和，直到进位为0为止" />
+    <MESSAGE value="StrToInt&#10;思路：这个题主要考察的是情况比较多，不能拉下了：（1）第一位是正负号，后面都是数字（2）第一位是正负号，后面没了&#10;     * （3）第一位是正负号，后面包含非整数字符（4）不包含正负号的有效数字（5）不包含正负号的无效数字（6）大于int的最大值，或小于最小值&#10;     &#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="StrToInt&#10;思路：这个题主要考察的是情况比较多，不能拉下了：（1）第一位是正负号，后面都是数字（2）第一位是正负号，后面没了&#10;     * （3）第一位是正负号，后面包含非整数字符（4）不包含正负号的有效数字（5）不包含正负号的无效数字（6）大于int的最大值，或小于最小值&#10;     &#10;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="14" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -906,58 +1433,337 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/io/InputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        <state relative-caret-position="720">
+          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="119" column="18" selection-start-line="119" selection-start-column="18" selection-end-line="119" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Queen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="72" column="24" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/IsBalancedTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/TreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/kafka.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/IpSelectStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindNumbersAppearOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/KafKaManage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/NumberOf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/ScriptExecute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/KafkaTopicInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="25" column="82" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindContinuousSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="640" column="0" selection-start-line="640" selection-start-column="0" selection-end-line="640" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-475">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        <state relative-caret-position="183">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindNumbersWithSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="1052" column="39" selection-start-line="1052" selection-start-column="19" selection-end-line="1052" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="620" column="0" selection-start-line="620" selection-start-column="0" selection-end-line="620" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/LeftRotateString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/util/concurrent/ThreadLocalRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Combination.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReverseSentence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="560">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/BuildBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/IsContinuous.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="340">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/offerTest.java" />
+    <entry file="file://$PROJECT_DIR$/tests/othersTest.java" />
     <entry file="file://$PROJECT_DIR$/EveryDay.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/AVLTree.java">
+    <entry file="file://$PROJECT_DIR$/tests/Randoms.java" />
+    <entry file="file://$PROJECT_DIR$/tests/RandomsTestTest.java" />
+    <entry file="file://$PROJECT_DIR$/tests/RandomsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/QuickSortDualPivot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="181" column="13" selection-start-line="181" selection-start-column="13" selection-end-line="181" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/others/NewTest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="211" column="16" selection-start-line="211" selection-start-column="16" selection-end-line="211" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/New.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Randoms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/others/RandomsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/YueSeFu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/SumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/StrToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/StrToIntTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/LastRemaining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/AddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding />
         </state>
       </provider>

@@ -52,7 +52,5 @@ public class Randoms {
         for (byte bb : bt) {
             System.out.println(bb);
         }
-
     }
-
 }
