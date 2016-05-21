@@ -22,7 +22,7 @@ public class Duplicate {
     public boolean duplicate(int numbers[], int length, int[] duplication) {
         HashSet<Integer> set = new HashSet<Integer>();
         boolean flag = false;
-        if (numbers == null || length == 0 || length == 1)
+        if (numbers == null || length <= 1)
             return false;
         if (length == 2 && numbers[0] != numbers[1])
             return false;
@@ -34,5 +34,36 @@ public class Duplicate {
             }
         }
         return flag;
+    }
+
+    /**
+     * 第二种方法，不需要额外的空间，但是需要O(n^2)的时间复杂度,
+     * 将数组中的数字放到与其相等的位置上，如numbers[0] = 4;那么将numers[0]与numbers[4]进行交换，
+     * 这样numbers[4] = 4;
+     *
+     * @param numbers
+     * @param length
+     * @param duplicate
+     * @return
+     */
+    public boolean duplicate1(int numbers[], int length, int[] duplicate) {
+        boolean flag = false;
+        if (numbers == null || length <= 1)
+            return false;
+        if (length == 2 && numbers[0] != numbers[1])
+            return false;
+        for (int i = 0; i < length; i++) {
+            while (numbers[i] != i) {
+                if (numbers[numbers[i]] != numbers[i]) {
+                    int temp = numbers[numbers[i]];
+                    numbers[numbers[i]] = numbers[i];
+                    numbers[i] = temp;
+                } else {
+                    duplicate[0] = numbers[i];
+                    return true;
+                }
+            }
+        }
+        return false;
     }
 }
