@@ -1,78 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc290e95-6e71-4dae-ac2e-7efba2208ac0" name="Default" comment="change workspace.xml&#10;">
+    <list default="true" id="bc290e95-6e71-4dae-ac2e-7efba2208ac0" name="Default" comment="delete com.edu.xd.sse.lab">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/kafka/Main.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/kafka/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/kafka/Prime.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/kafka/Prime.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/kafka/Tree$Node.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/kafka/Tree$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/kafka/Tree.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/kafka/Tree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Convert.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Convert.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Duplicate.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Duplicate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Fibonacci.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Fibonacci.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FindFirstCommonNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FindFirstCommonNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FindKthToTail$ListNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FindKthToTail$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FindKthToTail.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FindKthToTail.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FindPath.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FindPath.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FristNotRepeatingChar.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/FristNotRepeatingChar.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/HasSubTree$TreeNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/HasSubTree$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/HasSubTree.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/HasSubTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/IsBalancedTree.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/IsBalancedTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/MergeSortedList$ListNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/MergeSortedList$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/MergeSortedList.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/MergeSortedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Mirror$TreeNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Mirror$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Mirror.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Mirror.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/MoreThanHalfNum.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/MoreThanHalfNum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Power.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Power.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/PrintFromTopToBottom$TreeNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/PrintFromTopToBottom$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/PrintFromTopToBottom.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/PrintFromTopToBottom.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/PrintMatrix.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/PrintMatrix.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/QueueToRealizeStack.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/QueueToRealizeStack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/ReverseList$ListNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/ReverseList$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/ReverseList.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/ReverseList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/ReverseListNode$ListNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/ReverseListNode$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/ReverseListNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/ReverseListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/SumEqual.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/SumEqual.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/TreeDepth.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/TreeDepth.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/TreeNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Ugly.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/Ugly.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/VerifySquenceOfBST.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/VerifySquenceOfBST.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/printList$ListNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/printList$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/printList.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/offer/printList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/tree/Tree.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/tree/Tree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/tree/TreeTraverse$TreeNode.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/tree/TreeTraverse$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/tree/TreeTraverse.class" afterPath="$PROJECT_DIR$/bin/cn/edu/xd/sse/lab/tree/TreeTraverse.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/printList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/printList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/GetNumberOfK.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/GetNumberOfK.java" />
     </list>
-    <list id="dc50c564-1105-4527-adba-fd97e5cf3cc8" name="New changelist" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/BasicDataCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Map.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Maximum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/FileTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Prime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Tree$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/Tree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/kafka/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/BuildBinaryTree$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/BuildBinaryTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Combination.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/CompexClone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Convert.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Fibonacci.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindFirstCommonNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindGreatestSumOfSubArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindKthToTail$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindKthToTail.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindNumbersAppearOnce.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FindPath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/FristNotRepeatingChar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/HasSubTree$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/HasSubTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/InversePairs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/IsPopOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/LeastNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MergeSortedList$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MergeSortedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MinNumberInRotateArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MinStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Mirror$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Mirror.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/MoreThanHalfNum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/NumberOf1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/NumberOf1Between1AndN.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Permutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Power.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintFromTopToBottom$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintFromTopToBottom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMinNumber$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/PrintMinNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Queue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/QueueToRealizeStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/RandomListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReOrderArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReOrderArrayNoChange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/RectCover.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReplaceSpace.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseList$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseListNode$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/ReverseListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/SearchNum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/StackToRealizeQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/SumEqual.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/Ugly.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/VerifySquenceOfBST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/printList$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/offer/printList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/Tree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse.class" afterPath="" />
-    </list>
+    <list id="dc50c564-1105-4527-adba-fd97e5cf3cc8" name="New changelist" comment="" />
     <ignored path="EveryDay.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -127,15 +99,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Multiply.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Multiply.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Multiply.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicDataCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/baidu/BasicDataCache.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-              </folding>
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoreThanHalfNum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MoreThanHalfNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="194" column="37" selection-start-line="194" selection-start-column="37" selection-end-line="194" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetNumberOfK.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/GetNumberOfK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -211,6 +210,8 @@
         <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Duplicate.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Multiply.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MoreThanHalfNum.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/GetNumberOfK.java" />
       </list>
     </option>
   </component>
@@ -276,7 +277,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,28 +297,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EveryDay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EveryDay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,6 +309,7 @@
     <property name="settings.editor.splitter.proportion" value="0.27021885" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -343,59 +327,7 @@
       <recent name="F:\IntelliJIDEAGIT" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AddTest.add">
-    <configuration default="false" name="RandomsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.edu.xd.sse.lab.others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="EveryDay" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.edu.xd.sse.lab.others" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.others.RandomsTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="SumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.edu.xd.sse.lab.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="EveryDay" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.edu.xd.sse.lab.offer" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.offer.SumTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GetNumberOfK">
     <configuration default="false" name="AddTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -409,32 +341,6 @@
       <option name="PACKAGE_NAME" value="cn.edu.xd.sse.lab.offer" />
       <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.offer.AddTest" />
       <option name="METHOD_NAME" value="add" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="StrToIntTest.strToInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.edu.xd.sse.lab.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="EveryDay" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.edu.xd.sse.lab.offer" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.offer.StrToIntTest" />
-      <option name="METHOD_NAME" value="strToInt" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -472,6 +378,66 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="BasicDataCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.xd.sse.lab.baidu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.baidu.BasicDataCache" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="EveryDay" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MoreThanHalfNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.xd.sse.lab.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.offer.MoreThanHalfNum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="EveryDay" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GetNumberOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.xd.sse.lab.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.edu.xd.sse.lab.offer.GetNumberOfK" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="EveryDay" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -937,19 +903,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.RandomsTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SumTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.AddTest.add" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.StrToIntTest.strToInt" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.StrToIntTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AddTest.add" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.StrToIntTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BasicDataCache" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MoreThanHalfNum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GetNumberOfK" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.AddTest.add" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.StrToIntTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.StrToIntTest.strToInt" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SumTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RandomsTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GetNumberOfK" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MoreThanHalfNum" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BasicDataCache" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AddTest.add" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.StrToIntTest" />
       </list>
     </recent_temporary>
   </component>
@@ -989,6 +955,7 @@
       <workItem from="1463707462780" duration="18305000" />
       <workItem from="1463816536182" duration="8918000" />
       <workItem from="1463971222651" duration="899000" />
+      <workItem from="1463972535973" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="new a package">
       <created>1463388643185</created>
@@ -1158,7 +1125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1463971594004</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="delete com.edu.xd.sse.lab">
+      <created>1463972598202</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1463972598202</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1194,7 +1168,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120208000" />
+    <option name="totallyTimeSpent" value="120621000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1211,28 +1185,28 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3337041" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24753694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23421355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.62842464" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.62068963" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24753694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.37157536" order="1" side_tool="true" content_ui="tabs" x="622" y="25" width="436" height="937" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.37931034" order="1" side_tool="true" content_ui="tabs" x="622" y="25" width="436" height="937" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19950739" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20812808" sideWeight="0.35361654" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23421355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294335" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1255,7 +1229,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="new a package" />
     <MESSAGE value="calculate the depth of the tree&#10;including : recursive , circulate&#10;" />
     <MESSAGE value="calculate the depth of the tree &#10;including    recursive, circulate" />
     <MESSAGE value="IsBalancedTree &#10; 判断一个二叉树是否是平衡二叉树，采用了两种方法，一种是从上往下进行判断，思路简单，会重复遍历节点，造成时间浪费；第二种是从下往上进行判断，用root.val来保存已经计算出来的节点的深度，这样不会出现重复判断，可以做到一边求深度，一边进行遍历。" />
@@ -1280,7 +1253,8 @@
     <MESSAGE value="Duplicate&#10;用了额外的空间O(n)的时间和空间复杂度，&#10;用HashSet存放遍历的数字，遇到第一个重复的数字，返回结果" />
     <MESSAGE value="Duplicate&#10;用了额外的空间O(n)的时间和空间复杂度，&#10;用HashSet存放遍历的数字，遇到第一个重复的数字，返回结果&#10;第二种方法，用时间换取空间" />
     <MESSAGE value="change workspace.xml&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="change workspace.xml&#10;" />
+    <MESSAGE value="delete com.edu.xd.sse.lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete com.edu.xd.sse.lab" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
@@ -1300,27 +1274,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Queen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="72" column="24" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/IsBalancedTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-383">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/TreeDepth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -1611,18 +1564,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/baidu/BasicDataCache.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MoreThanHalfNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="194" column="37" selection-start-line="194" selection-start-column="37" selection-end-line="194" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/GetNumberOfK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
