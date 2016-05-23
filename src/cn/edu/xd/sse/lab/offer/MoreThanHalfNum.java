@@ -202,7 +202,7 @@ public class MoreThanHalfNum {
 	 * @param result
 	 * @return
 	 */
-	private boolean checkMoreThanHalf1(int[] array, int result) {
+	private boolean checkMoreThanHalf2(int[] array, int result) {
 		int count = 0;
 		for (int i = 0; i < array.length; i++) {
 			if (array[i] == result)
