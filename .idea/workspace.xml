@@ -2,70 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc290e95-6e71-4dae-ac2e-7efba2208ac0" name="Default" comment="&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/IpSelectStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/AddTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/StrToIntTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/SumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/others/RandomsTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/AVLTree$AVLTreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/AVLTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ArrayListRandomAccessTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BSTree$BSTNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BSTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BuildTree$Tree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BuildTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/CreateBusyThread$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/CreateBusyThread$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/CreateBusyThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/DuLinkList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/DuLinkList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ElectricNum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Father$Child.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Father$Child1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Father$Parent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Father.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Gifts.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/GrayCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/HuffmanNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/I.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/KMP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDG$ENode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDG$VNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDG.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDGS$EData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDGS$ENode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDGS$VNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ListUDGS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Main1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MatrixDG.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MatrixDGS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MatrixUDG.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MatrixUDGS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Minus$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Minus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/New.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Offer$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Offer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/QuickSortDualPivot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/RBTree$RBTNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/RBTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Search.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/SequenceList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Singleton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Singleton1$LazyHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Singleton1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Sort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/SynAddRunalbes$SynAddrunalbe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/SynAddRunalbes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/TestArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/TestStatic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/TestString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Wrong.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/YueSeFu.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Multiply.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="dc50c564-1105-4527-adba-fd97e5cf3cc8" name="New changelist" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/BasicDataCache.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Map.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/baidu/Maximum.class" afterPath="" />
@@ -132,111 +72,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeNode.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse$TreeNode.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bin/com/edu/xd/sse/lab/tree/TreeTraverse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Queue.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EveryDay.iml" afterPath="$PROJECT_DIR$/EveryDay.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Randoms.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Randoms.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/baidu/BasicDataCache.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/baidu/BasicDataCache.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/baidu/Map.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/baidu/Map.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/baidu/Maximum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/baidu/Maximum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/FileTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/FileTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/KafKaManage.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/KafKaManage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/KafkaTopicInfo.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/KafkaTopicInfo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/Main.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/Prime.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/Prime.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/ScriptExecute.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/ScriptExecute.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/Tree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/Tree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/kafka/kafka.properties" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/kafka/kafka.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/BuildBinaryTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/BuildBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Combination.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Combination.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/CompexClone.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/CompexClone.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Convert.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Convert.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Fibonacci.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Fibonacci.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindContinuousSequence.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindContinuousSequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindFirstCommonNode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindFirstCommonNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindGreatestSumOfSubArray.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindGreatestSumOfSubArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindKthToTail.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindKthToTail.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindNumbersAppearOnce.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindNumbersAppearOnce.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindNumbersWithSum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindNumbersWithSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FindPath.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FindPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/FristNotRepeatingChar.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/FristNotRepeatingChar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/HasSubTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/HasSubTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/InversePairs.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/InversePairs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/IsBalancedTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/IsBalancedTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/IsContinuous.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/IsContinuous.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/IsPopOrder.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/IsPopOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/LeastNumbers.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/LeastNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/LeftRotateString.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/LeftRotateString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/MergeSortedList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MergeSortedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/MinNumberInRotateArray.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MinNumberInRotateArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/MinStack.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MinStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Mirror.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Mirror.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/MoreThanHalfNum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/MoreThanHalfNum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/NumberOf1.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/NumberOf1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/NumberOf1Between1AndN.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/NumberOf1Between1AndN.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Permutation.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Permutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Power.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Power.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/PrintFromTopToBottom.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/PrintFromTopToBottom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/PrintMatrix.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/PrintMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/PrintMinNumber.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/PrintMinNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Queen.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Queen.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/QueueToRealizeStack.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/QueueToRealizeStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReOrderArray.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReOrderArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReOrderArrayNoChange.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReOrderArrayNoChange.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/RectCover.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/RectCover.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReplaceSpace.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReplaceSpace.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReverseList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReverseList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReverseListNode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReverseListNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/ReverseSentence.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/ReverseSentence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/SearchNum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/SearchNum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/StackToRealizeQueue.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/StackToRealizeQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/SumEqual.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/SumEqual.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/TreeDepth.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/TreeDepth.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/Ugly.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Ugly.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/VerifySquenceOfBST.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/VerifySquenceOfBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/offer/printList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/printList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/AVLTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/AVLTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ArrayListRandomAccessTest.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/ArrayListRandomAccessTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BSTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/BSTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BasicDataCache.class" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/BasicDataCache.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/BuildTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/BuildTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/CreateBusyThread.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/CreateBusyThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/DuLinkList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/DuLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ElectricNum.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/ElectricNum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Father.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Father.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Gifts.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Gifts.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/GrayCode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/GrayCode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/HuffmanNode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/HuffmanNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/I.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/I.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/KMP.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/KMP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ListUDG.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/ListUDG.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/ListUDGS.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/ListUDGS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Main.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Main1.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Main1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixDG.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/MatrixDG.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixDGS.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/MatrixDGS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixUDG.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/MatrixUDG.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/MatrixUDGS.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/MatrixUDGS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Minus.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Minus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/New.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/New.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Offer.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Offer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/QuickSortDualPivot.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/QuickSortDualPivot.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/RBTree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/RBTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Search.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Search.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/SequenceList.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/SequenceList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Singleton.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Singleton.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Singleton1.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Singleton1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Sort.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Sort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/SynAddRunalbes.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/SynAddRunalbes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestArrays.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/TestArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestStatic.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/TestStatic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/TestString.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/TestString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/Wrong.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/Wrong.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/others/YueSeFu.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/others/YueSeFu.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/tree/Tree.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/tree/Tree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/tree/TreeNode.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/tree/TreeNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/edu/xd/sse/lab/tree/TreeTraverse.java" afterPath="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/tree/TreeTraverse.java" />
     </list>
     <ignored path="EveryDay.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -292,22 +127,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Add.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Add.java">
+      <file leaf-file-name="Multiply.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Multiply.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/AddTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-              <folding />
+            <state relative-caret-position="300">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -317,8 +145,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -376,10 +204,12 @@
         <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/LastRemaining.java" />
         <option value="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/SumTest.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Sum.java" />
-        <option value="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/AddTest.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Add.java" />
         <option value="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/StrToIntTest.java" />
         <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/StrToInt.java" />
+        <option value="$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/AddTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Duplicate.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Multiply.java" />
       </list>
     </option>
   </component>
@@ -445,6 +275,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -463,29 +294,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EveryDay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EveryDay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1139,6 +951,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bc290e95-6e71-4dae-ac2e-7efba2208ac0" name="Default" comment="" />
+      <changelist id="dc50c564-1105-4527-adba-fd97e5cf3cc8" name="New changelist" comment="" />
       <created>1463385481200</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -1155,7 +968,8 @@
       <workItem from="1463555236082" duration="46144000" />
       <workItem from="1463665396224" duration="6296000" />
       <workItem from="1463707462780" duration="18305000" />
-      <workItem from="1463816536182" duration="5646000" />
+      <workItem from="1463816536182" duration="8918000" />
+      <workItem from="1463971222651" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="new a package">
       <created>1463388643185</created>
@@ -1297,7 +1111,28 @@
       <option name="project" value="LOCAL" />
       <updated>1463836785174</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="new change  &#10;">
+      <created>1463837634024</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1463837634024</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Duplicate&#10;用了额外的空间O(n)的时间和空间复杂度，&#10;用HashSet存放遍历的数字，遇到第一个重复的数字，返回结果">
+      <created>1463838489659</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1463838489659</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Duplicate&#10;用了额外的空间O(n)的时间和空间复杂度，&#10;用HashSet存放遍历的数字，遇到第一个重复的数字，返回结果&#10;第二种方法，用时间换取空间">
+      <created>1463839664693</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1463839664693</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1333,7 +1168,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116037000" />
+    <option name="totallyTimeSpent" value="119603000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1345,34 +1180,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3337041" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24753694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23421355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294335" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.6371814" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.62905985" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24753694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.3628186" order="1" side_tool="true" content_ui="tabs" x="622" y="25" width="436" height="937" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20812808" sideWeight="0.37094018" order="1" side_tool="true" content_ui="tabs" x="622" y="25" width="436" height="937" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19950739" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20812808" sideWeight="0.35361654" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23421355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294335" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1414,7 +1249,12 @@
     <MESSAGE value="Sum&#10; 方法一：原来的求和公式是（n^2 + n）/ 2;&#10;     * 思路；可以把公式分解开来进行求解，n^2 采用Math.pow(n,2);&#10;     *     /2操作可以使用移位操作来完成&#10;方法二：&#10;    用递归来实现循环，用 boolean 来实现判断条件" />
     <MESSAGE value="Add&#10;思路：可以把相加的过程分成两部分，第一部分只相加，不进位，第二部分，把进位的与之相加&#10;     *      第一步：先得到异或的结果，此时的结果是没有进位的结果，&#10;     *      第二步：得到相与的结果，然后左移一位就是进位的结果&#10;     *      第三步：就是循环相加第一步第二步的和，直到进位为0为止" />
     <MESSAGE value="StrToInt&#10;思路：这个题主要考察的是情况比较多，不能拉下了：（1）第一位是正负号，后面都是数字（2）第一位是正负号，后面没了&#10;     * （3）第一位是正负号，后面包含非整数字符（4）不包含正负号的有效数字（5）不包含正负号的无效数字（6）大于int的最大值，或小于最小值&#10;     &#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="StrToInt&#10;思路：这个题主要考察的是情况比较多，不能拉下了：（1）第一位是正负号，后面都是数字（2）第一位是正负号，后面没了&#10;     * （3）第一位是正负号，后面包含非整数字符（4）不包含正负号的有效数字（5）不包含正负号的无效数字（6）大于int的最大值，或小于最小值&#10;     &#10;" />
+    <MESSAGE value="  &#10;" />
+    <MESSAGE value="new change  &#10;" />
+    <MESSAGE value="Duplicate&#10;用了额外的空间O(n)的时间和空间复杂度，&#10;用HashSet存放遍历的数字，遇到第一个重复的数字，返回结果" />
+    <MESSAGE value="Duplicate&#10;用了额外的空间O(n)的时间和空间复杂度，&#10;用HashSet存放遍历的数字，遇到第一个重复的数字，返回结果&#10;第二种方法，用时间换取空间" />
+    <option name="LAST_COMMIT_MESSAGE" value="Duplicate&#10;用了额外的空间O(n)的时间和空间复杂度，&#10;用HashSet存放遍历的数字，遇到第一个重复的数字，返回结果&#10;第二种方法，用时间换取空间" />
+    <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -1433,25 +1273,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="119" column="18" selection-start-line="119" selection-start-column="18" selection-end-line="119" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_25/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1571,7 +1396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1635,7 +1459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2160">
           <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1659,7 +1482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1699,7 +1521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1714,9 +1535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1724,7 +1542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1732,7 +1549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1740,7 +1556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1748,23 +1563,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/cn/edu/xd/sse/lab/offer/AddTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-          <folding />
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Duplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/xd/sse/lab/offer/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
