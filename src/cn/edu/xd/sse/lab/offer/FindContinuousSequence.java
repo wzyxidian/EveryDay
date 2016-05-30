@@ -16,7 +16,7 @@ import java.util.ArrayList;
 public class FindContinuousSequence {
 
     /**
-     * 思路：设置两个指针，一个指向连续序列的第一个，一个指向最后一个
+     * 思路：设置两个指针，一个指向连续序列的第一个，一个指向接下来一个
      * 最开始将small初始化为1，big初始化为2，如果序列值大于sum，那么去掉small，也就是small不断增大；
      * 如果序列值小于sum，那么增大big，遍历结束的条件是small增大到（sum / 2）为止。
      *
