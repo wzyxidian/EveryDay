@@ -40,9 +40,6 @@ public class Combination {
 		String sb = "";
 		recursive(s,0,len,sb,set);
 		list.addAll(set);
-		for (int i = 0; i < list.size(); i++) {
-			System.out.println(list.get(i));
-		}
 		return list;
 	}
 
