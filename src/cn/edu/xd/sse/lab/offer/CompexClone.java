@@ -20,8 +20,8 @@ public class CompexClone {
 
 	/**
 	 * 复制每个节点，将新复制节点作为原来节点的下一个节点
-	 * @param pHead
-	 */
+     * @param pHead 链表的表头
+     */
 	 private void cloneNodes(RandomListNode pHead){
 	        RandomListNode pNode = pHead;
 	        while(pNode != null){
