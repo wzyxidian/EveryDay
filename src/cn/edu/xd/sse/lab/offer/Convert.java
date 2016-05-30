@@ -1,7 +1,8 @@
 package cn.edu.xd.sse.lab.offer;
 
-import java.util.Stack;
+import cn.edu.xd.sse.lab.tree.TreeNode;
 
+import java.util.Stack;
 /**
  * @author zhiyong wang
  * 题目：二叉搜索树与双向链表
@@ -12,14 +13,14 @@ public class Convert {
 
 	public static void main(String[] args) {
 		Convert c = new Convert();
-		cn.edu.xd.sse.lab.tree.TreeNode root = new cn.edu.xd.sse.lab.tree.TreeNode(10);
-		root.left = new cn.edu.xd.sse.lab.tree.TreeNode(6);
-		root.right = new cn.edu.xd.sse.lab.tree.TreeNode(14);
-		root.left.left = new cn.edu.xd.sse.lab.tree.TreeNode(4);
-		root.left.right = new cn.edu.xd.sse.lab.tree.TreeNode(8);
-		root.right.left = new cn.edu.xd.sse.lab.tree.TreeNode(12);
-		root.right.right = new cn.edu.xd.sse.lab.tree.TreeNode(16);
-		cn.edu.xd.sse.lab.tree.TreeNode pHead = c.convert(root);
+		TreeNode root = new TreeNode(10);
+		root.left = new TreeNode(6);
+		root.right = new TreeNode(14);
+		root.left.left = new TreeNode(4);
+		root.left.right = new TreeNode(8);
+		root.right.left = new TreeNode(12);
+		root.right.right = new TreeNode(16);
+		TreeNode pHead = c.convert(root);
 		while (pHead != null) {
 			System.out.println(pHead.val);
 			pHead = pHead.right;
@@ -32,11 +33,11 @@ public class Convert {
   * @param pRootOfTree   链表的头结点
   * @return              排好序的链表的头结点
   */
-	public cn.edu.xd.sse.lab.tree.TreeNode convert(cn.edu.xd.sse.lab.tree.TreeNode pRootOfTree) {
+	public TreeNode convert(TreeNode pRootOfTree) {
 		if (pRootOfTree == null)
 			return null;
-		cn.edu.xd.sse.lab.tree.TreeNode lastNode = convertNode(pRootOfTree, null);
-		cn.edu.xd.sse.lab.tree.TreeNode pHead = lastNode;
+		TreeNode lastNode = convertNode(pRootOfTree, null);
+		TreeNode pHead = lastNode;
 		while (pHead != null && pHead.left != null)
 			pHead = pHead.left;
         return pHead;
@@ -48,7 +49,7 @@ public class Convert {
 	   * @param lastNode    上一个排好序的最后一个节点
 	   * @return            当前排好序的最后一个节点
 	   */
-  private cn.edu.xd.sse.lab.tree.TreeNode convertNode(cn.edu.xd.sse.lab.tree.TreeNode node, cn.edu.xd.sse.lab.tree.TreeNode lastNode) {
+  private TreeNode convertNode(TreeNode node, TreeNode lastNode) {
 	  if (node == null)
 		  return null;
         if(node.left != null)
@@ -70,19 +71,19 @@ public class Convert {
      * @param pRootOfTree   链表的头结点
      * @return				返回排好序的链表的头结点
      */
-	public cn.edu.xd.sse.lab.tree.TreeNode converts(cn.edu.xd.sse.lab.tree.TreeNode pRootOfTree) {
+	public TreeNode converts(TreeNode pRootOfTree) {
 		if (pRootOfTree == null)
 			return null;
     	Stack stack = new Stack();
-		cn.edu.xd.sse.lab.tree.TreeNode p = pRootOfTree;
+		TreeNode p = pRootOfTree;
 		boolean isFirst = true;
-		cn.edu.xd.sse.lab.tree.TreeNode pre = null;
+		TreeNode pre = null;
 		while (p != null || !stack.isEmpty()) {
 			while(p != null){
     			stack.push(p);
     			p = p.left;
     		}
-			p = (cn.edu.xd.sse.lab.tree.TreeNode) stack.pop();
+			p = (TreeNode) stack.pop();
 			//核心实现部分
 			if(isFirst){
     			pRootOfTree = p;
