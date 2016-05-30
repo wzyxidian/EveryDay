@@ -1,6 +1,7 @@
 package cn.edu.xd.sse.lab.offer;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -14,11 +15,20 @@ import java.util.Set;
 public class Combination {
 
 	/**
+	 * test
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Combination combination = new Combination();
+		combination.combination("abaca");
+	}
+
+	/**
 	 * 思路：既然是组合，可以从第一个位置开始遍历，每个字符都分成两条路来走，（1）包含第一个字符，（2）不包含第一个字符
 	 * 		然后在上面的基础上（1）包含第二个字符，（2）不包含第二个字符。。。。依次类推，可以用二叉树的思想来解决
 	 * 		第一反应用到递归的方法来实现。
 	 * 递归的参数包括：原始字符串，下一个遍历的位置，字符串的总长度，当前的字符串组合，结果集
-	 * @param s 
+	 * @param s
 	 * @return
 	 */
 	public ArrayList<String> combination(String s){
@@ -30,11 +40,14 @@ public class Combination {
 		String sb = "";
 		recursive(s,0,len,sb,set);
 		list.addAll(set);
+		for (int i = 0; i < list.size(); i++) {
+			System.out.println(list.get(i));
+		}
 		return list;
 	}
-	
+
 	/**
-	 * 
+	 *
 	 * 返回的判断条件是下一个要判断的字符位置是不是到字符串的最后一位的下一位，
 	 * 同时还要注意组合中包含一种所有字符都没有的情况，这种情况要排除
 	 * 然后递归分两种情况：包含当前字符，与不包含当前字符
@@ -47,15 +60,26 @@ public class Combination {
 	private void recursive(String s, int index, int len, String sb, Set set) {
 		// TODO Auto-generated method stub
 		if(index == len){
-			if(!sb.equals(""))//有一种情况存在就是所有的字符都没有选择，一直往下递归
-				set.add(sb.toString());
+			if (!sb.equals("")) {//有一种情况存在就是所有的字符都没有选择，一直往下递归
+				set.add(reSort(sb));
+			}
 			return ;
 		}
 		int startIndex1 = index + 1;
 		recursive(s,startIndex1,len,sb,set);
 		sb = sb + s.charAt(index);
 		recursive(s,startIndex1,len,sb, set);
-		
 	}
 
+	/**
+	 * 对选择的结果进行重排序，举例：abaca，可能存在：abac,abca这种情况属于同一种组合，但是不属于同一种排序
+	 *
+	 * @param s
+	 */
+	public String reSort(String s) {
+		char[] temp = s.toCharArray();
+		Arrays.sort(temp);
+		String result = String.valueOf(temp);
+		return result;
+	}
 }
