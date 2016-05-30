@@ -76,7 +76,6 @@ public class Combination {
 	public String reSort(String s) {
 		char[] temp = s.toCharArray();
 		Arrays.sort(temp);
-		String result = String.valueOf(temp);
-		return result;
+		return String.valueOf(temp);
 	}
 }
