@@ -7,35 +7,52 @@ public class TreeTraverse {
 
 	private final static int[] array = new int[]{1,2,3,4,5,6,7,8,9};
 	public static LinkedList<TreeNode> nodeList;
-	
-	public static void preOrderTraverse(TreeNode node){
+
+    /**
+     * 递归先序遍历
+     *
+     * @param node
+     */
+    public static void preOrderTraverse(TreeNode node){
 		if(node == null){
 			return ;
 		}
 		System.out.println(node.val + " ");
 		preOrderTraverse(node.leftChild);
 		preOrderTraverse(node.rightChild);
-	}
-	
-	public static void inOrderTraverse(TreeNode node){
+    }
+
+    /**
+     * 递归中序遍历
+     * @param node
+     */
+    public static void inOrderTraverse(TreeNode node){
 		if(node == null){
 			return ;
 		}
 		inOrderTraverse(node.leftChild);
 		System.out.println(node.val + " ");
 		inOrderTraverse(node.rightChild);
-	}
+    }
 
-	public static void postOrderTraverse(TreeNode node){
+    /**
+     * 递归后序遍历
+     * @param node
+     */
+    public static void postOrderTraverse(TreeNode node){
 		if(node == null){
 			return ;
 		}
 		postOrderTraverse(node.leftChild);
 		postOrderTraverse(node.rightChild);
 		System.out.println(node.val + " ");
-	}
-	
-	public static void preOrderTraverse2(TreeNode node){
+    }
+
+    /**
+     * 非递归先序遍历
+     * @param node
+     */
+    public static void preOrderTraverse2(TreeNode node){
 		Stack<TreeNode> stack = new Stack<TreeNode>();
 		while(node != null || !stack.empty()){
 			while(node != null){
@@ -47,10 +64,14 @@ public class TreeTraverse {
 				node = stack.pop();
 				node = node.rightChild;
 			}
-		}
-	}
-	
-	public static void inOrderTraverse2(TreeNode node){
+        }
+    }
+
+    /**
+     * 非递归中序遍历
+     * @param node
+     */
+    public static void inOrderTraverse2(TreeNode node){
 		Stack<TreeNode> stack = new Stack<TreeNode>();
 		while(node != null || !stack.empty()){
 			while(node != null){
@@ -62,10 +83,14 @@ public class TreeTraverse {
 				System.out.println(node.val + " ");
 				node = node.rightChild;
 			}
-		}
-	}
-	
-	public static void postOrderTraverse2(TreeNode node){
+        }
+    }
+
+    /**
+     * 非递归后序遍历
+     * @param node
+     */
+    public static void postOrderTraverse2(TreeNode node){
 		Stack<TreeNode> stack = new Stack<TreeNode>();
 		Stack<Integer> stack1 = new Stack<Integer>();
 
@@ -86,9 +111,12 @@ public class TreeTraverse {
 				node = stack.peek();
 				node = node.rightChild;
 			}
-		}
-	}
+        }
+    }
 
+    /**
+     * 二叉树的创建
+     */
 	public void createBinTree() {
 		nodeList = new LinkedList<TreeNode>();
 		int arrayLen = array.length;
