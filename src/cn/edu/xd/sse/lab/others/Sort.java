@@ -2,16 +2,22 @@ package cn.edu.xd.sse.lab.others;
 
 public class Sort {
 
-	public static void main(String[] args) {
-		Sort sort = new Sort();
+	/*public static void main(String[] args) {
+        Sort sort = new Sort();
 		int[] arr = {3, 2, 4, 1, 4, 5, 1, 6, 7};
 		sort.quickSort2(arr, 0, 7);
 		for (int i = 0; i < arr.length; i++) {
 			System.out.print(arr[i] + " ");
 		}
-	}
-	
-	//交换两个数
+	}*/
+
+    public static void main(String[] args) {
+        Sort sort = new Sort();
+        sort.heapSortAsc(new int[]{3, 2, 4, 5, 1, 0, 3, 2});
+        System.out.println();
+    }
+
+    //交换两个数
 	private void swap(int[] arr, int i,int j){
 		int temp = arr[i];
 		arr[i] = arr[j];
@@ -41,7 +47,7 @@ public class Sort {
 			}
 		}
 	}
-	
+
 	//简单选择排序,时间复杂度为O(n^2),稳定的排序算法，性能上优于冒泡，移动次数少，最多移动n-1次
 	public void selectSort(int[] arr){
 		int min;
@@ -55,9 +61,9 @@ public class Sort {
 				swap(arr,i,min);
 		}
 	}
-	
-	//直接插入排序，稳定的排序算法，比较、移动的时间复杂度为O(n^2)
-	public void insertSort(int[] arr){
+
+    //直接插入排序，稳定的排序算法，比较、移动的时间复杂度为O(n^2)
+    public void insertSort(int[] arr){
 		for(int i=1;i<arr.length;i++){
 			int temp = arr[i];
 			int j;
@@ -65,9 +71,9 @@ public class Sort {
 				arr[j+1] = arr[j];
 			arr[j+1] = temp;
 		}
-	}
-	
-	//双点直接插入排序，稳定的排序算法,不是从开始进行的排序
+    }
+
+    //双点直接插入排序，稳定的排序算法,不是从开始进行的排序
 	public void insertSort2(int[] arr,int left, int right){
 		for(int i=left;++left<=right;i=++left){
 			int a1 = arr[i];
@@ -90,7 +96,7 @@ public class Sort {
 				arr[right+1] = arr[right];
 			arr[right+1] = last;
 	}
-	
+
 	//希尔排序，不是稳定的排序算法，是对插入排序的升级版，最好可以达到O(n^(3/2)),不好可以是O(n^2)
 	public void shellSort(int[] arr){
 		for(int gap=arr.length/2;gap>0;gap /= 2){
@@ -109,9 +115,9 @@ public class Sort {
 			}
 		}
 	}
-	
-	//堆排序，时间复杂度为O(nlogn)，不适合待排列个数较少的情况
-	public void heapSortAsc(int[] arr){
+
+    //堆排序，时间复杂度为O(nlogn)，不适合待排列个数较少的情况
+    public void heapSortAsc(int[] arr){
 		for(int i=arr.length/2-1;i>=0;i--){
 			heapAdjust(arr,i,arr.length-1);
 		}
@@ -220,7 +226,7 @@ public class Sort {
 	//双基准的快速排序算法
 	private void quickSort2(int[] arr, int lowIndex, int highIndex) {
 		if(lowIndex >= highIndex) return;
-      int pivot1 = arr[lowIndex];
+        int pivot1 = arr[lowIndex];
       int pivot2 = arr[highIndex];
       if(pivot1 > pivot2){
     	  arr[lowIndex] = pivot2;
